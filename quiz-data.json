@@ -1,0 +1,10 @@
+[
+  { "question":"What is the Capital of India?",
+    "choices":["Mumbai","Chennai","Pune","New Delhi"],
+    "correct_ans":"New Delhi"
+  },
+  { "question":"Who was India's first Prime Minister?",
+    "choices":["Jawaharlal Nehru","Indira Gandhi","Mahatman Gandhi","Vallabhbhai Patel"],
+    "correct_ans":"Jawaharlal Nehru"
+  }
+] 
