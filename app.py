@@ -24,7 +24,7 @@ for ques in data:
 
     user_choice=int(input("enter your choice : "))
     total_ques+=1
-    if user_choice>4 or user_choice<0:
+    if user_choice>3 or user_choice<0:
         print("Invalid")
     else:
         if choices[user_choice]==ques.get("correct_ans"):
